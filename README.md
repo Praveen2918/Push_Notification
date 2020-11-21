@@ -8,3 +8,5 @@ Push Notification are the notification which the **user receive if they allow / 
 2. In Android - We can see the No of messages that we received in whats'up when we scroll Notification screen form top to bottom.
 
 For These notifications user **need not to keep the browser / particular application to be active/opened .**
+
+![Sample Notification](/assets/demo.png "Sample Demo Notification")
